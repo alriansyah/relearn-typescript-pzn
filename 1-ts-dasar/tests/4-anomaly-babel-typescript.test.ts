@@ -9,9 +9,9 @@ describe("Data Type", function () {
     console.info(balance);
     console.info(isVip);
 
-    name = 100;
-    balance = "eko";
-    isVip = 100;
+    // name = 100;
+    // balance = "eko";
+    // isVip = 100;
   });
 
   /*
