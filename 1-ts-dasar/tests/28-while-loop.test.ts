@@ -1,7 +1,6 @@
 /*
     While Loop :
     - TypeScript juga mendukung perulangan While Loop seperti di JavaScript
-
 */
 
 describe("While Loop", function () {
