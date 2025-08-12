@@ -6,7 +6,7 @@
 
 import { z } from "zod";
 
-describe("object validation", () => {
+describe("custom validation message", () => {
   it("should can validate object with message", async () => {
     const loginSchema = z.object({
       username: z.string().email("username harus email"),
